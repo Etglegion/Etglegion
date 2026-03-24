@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello there, my name is Artyom 👋
+Currently learning C++ and C#, have a beginner's level of understanding of Python.
 
+Interested in:
++ __game development__ 
++ __game design__
 <!--
 **Etglegion/Etglegion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
